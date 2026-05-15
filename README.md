@@ -58,6 +58,6 @@ Link :-  https://public.tableau.com/app/profile/kashish.parwenn/viz/Tele-Custome
 
 # 👩‍💻 Author
 
-Kashish Paeween
+Kashish Parween
 
 ---
