@@ -18,8 +18,18 @@ Link :-  https://public.tableau.com/app/profile/kashish.parwenn/viz/Tele-Custome
 - Performed Exploratory Data Analysis (EDA) on telecom customer data
 - Identified key churn indicators and customer retention patterns
 - Analyzed customer demographics, tenure, contracts, and payment behavior
+- Built Machine Learning models to predict customer churn
+- Applied SMOTE technique to handle class imbalance
+- Achieved **79% accuracy using Random Forest Classifier**
 - Built an interactive Tableau dashboard for business insights and visualization
 - Generated data-driven recommendations to improve customer retention strategies
+
+---
+
+# 🤖 Machine Learning Models Used
+
+- Logistic Regression
+- Random Forest Classifier
 
 ---
 
@@ -29,6 +39,7 @@ Link :-  https://public.tableau.com/app/profile/kashish.parwenn/viz/Tele-Custome
 - Jupyter Notebook
 - Pandas
 - NumPy
+- Scikit-learn
 - Matplotlib
 - Seaborn
 - Tableau
