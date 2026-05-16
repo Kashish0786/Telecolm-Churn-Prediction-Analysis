@@ -26,6 +26,11 @@ Link :-  https://public.tableau.com/app/profile/kashish.parwenn/viz/Tele-Custome
 
 ---
 
+# 📂 Pipeline
+<img width="720" height="658" alt="image (9)" src="https://github.com/user-attachments/assets/209adbf3-6ed4-4d1d-abc4-567b575f4a5d" />
+
+
+---
 # 🤖 Machine Learning Models Used
 
 - Logistic Regression
